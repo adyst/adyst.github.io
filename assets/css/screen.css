@@ -1,7 +1,7 @@
 /* --- Media Queries --- */
 
 /* Portrait and Landscape */
-@media (min-width: 320px) and (max-width: 480px) {
+@media (min-width: 0px) and (max-width: 480px) {
     .content-container {
         font-size: 1em;
     }
@@ -77,6 +77,14 @@
     .expanded li:hover {
         background-color: var(--color-primary-medium);
     }
+    
+    .post h1 {
+        font-size: 3em;
+    }
+
+}
+
+@media (min-height: 0px) and (max-height: 480px) {
 
 }
 

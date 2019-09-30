@@ -238,6 +238,7 @@ img {
     overflow-x: scroll;
     scroll-behavior: smooth;
     scroll-snap-type: x mandatory;
+    scroll-padding: 0 0 0 5vw;
     padding-top: var(--menu-height);
 }
 
@@ -328,10 +329,7 @@ img {
 
 .post {
     width: 50%;
-}
-
-.post p {
-    /* text-indent: 2em; */
+    padding-bottom: 2em;
 }
 
 .post a {
