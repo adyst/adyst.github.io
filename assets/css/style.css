@@ -23,7 +23,7 @@ html, body {
 /* Fonts */
 @font-face {
     font-family: 'Tiger Walk';
-    src: url('http://localhost:2370/assets/fonts/Tiger\ Walk.ttf');
+    src: url('../fonts/TigerWalk.ttf');
 }
 
 @font-face {
