@@ -78,7 +78,7 @@
         background-color: var(--color-primary-medium);
     }
     
-    .post h1 {
+    .post-header h1 {
         font-size: 3em;
     }
 
